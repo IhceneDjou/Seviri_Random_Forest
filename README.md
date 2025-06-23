@@ -51,4 +51,3 @@ tn, fp, fn, tp
 
 ![line_true_vs_pred](https://github.com/user-attachments/assets/7c877323-307e-4360-804c-dcc5f612092f)
 ![scatter_true_vs_pred_test](https://github.com/user-attachments/assets/5552143f-ed17-4add-aa69-9b522dc5d3a4)
-![classification_rain_intensity](https://github.com/user-attachments/assets/ef09c8ae-fdbf-4f9d-8ea7-1596df22d8d8)
